@@ -1,0 +1,17 @@
+PODS:
+  - JSPatch/Core (1.1.2)
+  - JSPatch/JPCFunction (1.1.2):
+    - JSPatch/Core
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - JSPatch/JPCFunction
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  JSPatch: 741205ebb2e2238c223a436e4c8cf75cf40a345f
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 52ec1219182176ba0841dd6ba4060a85ae05a69c
+
+COCOAPODS: 1.1.1
